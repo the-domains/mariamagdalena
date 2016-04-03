@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mariamagdalena]]></title>
         <description><![CDATA[mariamagdalena]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mariamagdalena/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 20:13:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 20:20:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mariamagdalena/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1820524b-e822-42d5-8c97-29fae3ddf23c.jpg">]]></description>
+            <link>https://thegrid.ai/mariamagdalena/3458d758-98fe-4d5e-a541-37e1bf234aa7/index.html</link>
+            <guid isPermaLink="false">3458d758-98fe-4d5e-a541-37e1bf234aa7</guid>
+            <pubDate>Sun, 03 Apr 2016 20:19:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/300a00f1-4037-4baf-81b0-c04fd154b033.png">]]></description>
-            <link>undefined05017acf-a543-43d9-9a9f-fb0a2a878157/index.html</link>
+            <link>https://thegrid.ai/mariamagdalena/05017acf-a543-43d9-9a9f-fb0a2a878157/index.html</link>
             <guid isPermaLink="false">05017acf-a543-43d9-9a9f-fb0a2a878157</guid>
             <pubDate>Sun, 03 Apr 2016 20:11:22 GMT</pubDate>
         </item>
