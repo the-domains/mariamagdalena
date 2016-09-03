@@ -28,6 +28,9 @@ navigation:
   - name: 'Test '
     id: 4799b3a4-233e-4365-b7c3-6d707c2e561e
     type: content
+  - name: test 2
+    id: 3458d758-98fe-4d5e-a541-37e1bf234aa7
+    type: content
 favicon: null
 title: MAGDALENA MARIA
 description: 'The Essence of being beautiful '
